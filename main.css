@@ -17,13 +17,13 @@ html {
 body {
     margin: 0;
     padding: 0;
-    background-image: url("img/wallpaper.jpg")
+    background-image: url("img/wallpaper.jpg");
+    font-family: "Courier New", monospace;
 }
 
 #main-container {
     width: 850px;
     margin: 0 auto;
-    font-family: "Century", sans-serif;
     font-size: 1.2em;
     background-color: white;
 }
@@ -231,10 +231,10 @@ table th {
         height: 200px;
         margin-left: 20px;
     }
-    
-    #cv-pdf{
+
+    #cv-pdf {
         height: 150px;
         width: 300px;
     }
-    
+
 }
